@@ -17,6 +17,7 @@ h2 {
 
 h3 {
   font-size: 2rem;
+  margin-top: 4rem;
 }
 
 p {
@@ -42,8 +43,8 @@ strong {
 
 .info {
   background-color: #f0f0f0;
-  padding: 3rem;
-  margin-bottom: 4rem;
+  padding: 2rem;
+  margin-bottom: 2rem;
 }
 
 .info p {
