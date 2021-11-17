@@ -24,6 +24,10 @@ p {
   line-height: 1.7em;
 }
 
+h3 + p {
+  margin-top: -1rem;
+}
+
 strong {
   color: black;
 }
