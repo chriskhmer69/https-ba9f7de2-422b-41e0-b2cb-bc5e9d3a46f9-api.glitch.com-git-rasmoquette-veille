@@ -33,6 +33,10 @@ p + ul {
   margin-top: -1rem;
 }
 
+img + img {
+  margin-top: 2rem;
+}
+
 strong {
   color: black;
 }
